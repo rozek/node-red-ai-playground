@@ -4,11 +4,11 @@ a simple AI LLM Playground based on the Node-RED-AI-Toolkit
 
 ![AI Playground Screenshot](AI-Playground-Screenshot.png)
 
-This repository contains a [Node-RED](https://nodered.org/) flow which implements a "playground" for AI models. It is primarily intended to serve as an example for the [Node-RED AI Toolkit](https://github.com/rozek/node-red-ai-toolkit), but may also be used on its own.
+This repository contains a [Node-RED](https://nodered.org/) flow which implements a "playground" for AI models. It is primarily intended to serve as an example for the [Node-RED AI Toolkit](https://github.com/rozek/node-red-ai-toolkit), but may also be used to experiment with prompts and find the best ones for a given task and language model.
 
 ![AI Playground Flow](AI-Playground-Flow.png)
 
-> **Important**: the AI toolkit and its examples are currently being developed very actively. Come back from time to time and watch out for additional models, better prompts, additional nodes and more robustness. 
+> **Important**: the AI toolkit and its examples are currently being developed very actively. Come back from time to time and watch out for additional models and nodes. 
 
 > Just a small note: if you like this module and plan to use it, consider "starring" this repository (you will find the "Star" button on the top right of this page), so that I know which of my repositories to take most care of.
 
