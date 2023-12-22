@@ -18,7 +18,7 @@ This example requires a running Node-RED instance with installed [Node-RED AI To
 
 Then, follow the [instructions found in the UIBuilder Docs](https://totallyinformation.github.io/node-red-contrib-uibuilder/#/walkthrough1?id=how-to-get-started-4-steps-to-a-data-driven-web-app) to install the UIBuilder nodes.
 
-Now, it's time to import the contents of file [AI-Playground-Flow.json](https://raw.githubusercontent.com/rozek/node-red-ai-playground/master/AI-Playground-Flow.json) - preferably into a new Node-RD workflow.
+Now, it's time to import the contents of file [AI-Playground-Flow.json](https://raw.githubusercontent.com/rozek/node-red-ai-playground/master/AI-Playground-Flow.json) - preferably into a new Node-RED worksheet.
 
 If necessary, you may also download a supported AI model (in GGUF format) into the toolkit's model folder.
 
